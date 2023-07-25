@@ -1,0 +1,11 @@
+.btn {
+    margin: 17px;
+    padding: 10px;
+    color: beige;
+    background-color: rgba(137, 43, 226, 0.795) ;
+    transform:.3s all ;
+    -webkit-transform:.3s all ;
+    -moz-transform:.3s all ;
+    -ms-transform:.3s all ;
+    -o-transform:.3s all ;
+}
